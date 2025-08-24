@@ -12,3 +12,4 @@ A Python-based simulation of a **fenceless robot safety system**. It generates s
   - Line plot: minimum distance vs. frame with threshold overlays.
   - 3D scatter in the base frame (marks the robot base).
  
+---
